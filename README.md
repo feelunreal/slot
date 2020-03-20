@@ -3,6 +3,6 @@
 steps to run
 from root folder:
 
-1. npm i
-2. node server.js
-3. open localhost:3000
+1. ```npm i```
+2. ```node server.js```
+3. open in browser localhost:3000
